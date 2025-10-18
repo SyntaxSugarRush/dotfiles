@@ -1,0 +1,14 @@
+2025-10-18 19:50:00.645 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-18 19:50:00.791 [info] Started local extension host with pid 359174.
+2025-10-18 19:50:00.823 [info] Started initializing default profile extensions in extensions installation folder. file:///home/evr/.vscode/extensions
+2025-10-18 19:50:01.010 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/evr/.vscode/extensions
+2025-10-18 19:50:01.640 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 19:50:01.782 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 19:50:03.796 [info] [perf] Render performance baseline is 22ms
+2025-10-18 19:50:24.127 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-18 19:50:24.242 [info] Started local extension host with pid 362956.
+2025-10-18 19:50:24.944 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 19:50:25.088 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 19:50:26.856 [info] [perf] Render performance baseline is 22ms
+2025-10-18 19:50:31.082 [error] [Extension Host] (node:362956) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

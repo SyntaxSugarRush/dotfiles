@@ -1,0 +1,117 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f58fa9b86ef71ae644035eaf6753810780320a683c30ab89531c1c8e4adc9917",
+    "telemetry.devDeviceId": "a3a76e65-33f2-4855-8aa3-e69c618ecf00",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/evr/Projects/dotfiles"
+            },
+            {
+                "folderUri": "file:///home/evr/.config"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1760809799966"
+            },
+            {
+                "backupFolder": "1760810384065"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/evr/Projects/dotfiles": "__default__profile__",
+            "file:///home/evr/.config": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1760810384065": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/evr/.config",
+            "backupPath": "/home/evr/.config/Code/Backups/d43eff7f003dea206372082ed21a9e4c",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 1414
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/evr/Projects/dotfiles",
+                "backupPath": "/home/evr/.config/Code/Backups/21a6339963e120bcc1b2aa436287da96",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 2560,
+                    "height": 1440
+                }
+            },
+            {
+                "folder": "file:///home/evr/.config",
+                "backupPath": "/home/evr/.config/Code/Backups/d43eff7f003dea206372082ed21a9e4c",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1280,
+                    "height": 1414
+                }
+            }
+        ]
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "9cfd290439d9732b37b3896a5ff2f311": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "f5cb30e835fd894e8ef9a09aecd079fe": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

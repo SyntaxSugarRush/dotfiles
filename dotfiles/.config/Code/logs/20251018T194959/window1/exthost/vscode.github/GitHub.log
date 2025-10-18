@@ -1,0 +1,4 @@
+2025-10-18 19:50:01.799 [info] Log level: Info
+2025-10-18 19:50:25.101 [info] Log level: Info
+2025-10-18 19:50:28.782 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-18 19:50:36.582 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for SyntaxSugarRush/dotfiles: Error: No GitHub authentication session available.
